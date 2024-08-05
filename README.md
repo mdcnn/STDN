@@ -1,1 +1,2 @@
-# STDN
+## Learning Only Two Deep Models of Structure-Texture Decomposition Neural Networks for Consecutive Image Smoothing
+### Our codes are publicly released, which can be download from [GoogleDrive](https://drive.google.com/file/d/1wSc28l3Sguszdm4VZLQcTSvL2QQW246t/view?usp=sharing), [FeiShu](https://wa01gy6lnb.feishu.cn/file/VBwnbDKAuor0SkxfGGOcSlHUnqe?from=from_copylink) and [BaiduYun](https://pan.baidu.com/s/1fOSelqvmEROX_MR45Rk37Q?pwd=aw6n)(Extracted Code: aw6n).
